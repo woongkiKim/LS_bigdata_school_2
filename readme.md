@@ -3,11 +3,11 @@
 # 프로젝트명: LS 빅데이터 스쿨 2기 학습자료
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/woongkiKim/LS2_research?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/pragyy/datascience-readme-template)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/pragyy/datascience-readme-template)
-![GitHub](https://img.shields.io/github/license/pragyy/datascience-readme-template)
-![contributors](https://img.shields.io/github/contributors/pragyy/datascience-readme-template)
-![codesize](https://img.shields.io/github/languages/code-size/pragyy/datascience-readme-template)
+![GitHub last commit](https://img.shields.io/github/last-commit/woongkiKim/LS2_research)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/woongkiKim/LS2_research)
+![GitHub](https://img.shields.io/github/license/woongkiKim/LS2_research)
+![contributors](https://img.shields.io/github/contributors/woongkiKim/LS2_research)
+![codesize](https://img.shields.io/github/languages/code-size/woongkiKim/LS2_research)
 
 > 데이터분석 관련 readme 템플릿을 참고하여 만든 readme 입니다. 출처는 아래에 기입했습니다.
 
