@@ -2,10 +2,8 @@
 
 # 프로젝트명: LS 빅데이터 스쿨 2기 학습자료
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/woongkiKim/LS_bigdata_school_2?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/woongkiKim/LS_bigdata_school_2)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/woongkiKim/LS_bigdata_school_2)
-![GitHub](https://img.shields.io/github/license/woongkiKim/LS_bigdata_school_2)
 ![contributors](https://img.shields.io/github/contributors/woongkiKim/LS_bigdata_school_2)
 ![codesize](https://img.shields.io/github/languages/code-size/woongkiKim/LS_bigdata_school_2)
 
@@ -55,3 +53,8 @@ Github을 다루는데 익숙해지며 각종 학습자료를 배포하기 위�
   - [ ] 분석주제 선정보고서
   - [ ] 분석 코드
   - [ ] 결과 보고서
+
+##### 참고자료
+
+- https://github.com/othneildrew/Best-README-Template/blob/master/README.md
+- https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e
