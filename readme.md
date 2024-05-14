@@ -52,6 +52,8 @@ Github을 다루는데 익숙해지며 각종 학습자료를 배포하기 위�
 
   - [ ] 분석주제 선정보고서
   - [ ] 분석 코드
+    - [x] 설명가능한 AI모델 XAI(eXplanable AI) 실습 1 (Partial Dependence Plot - PDP)
+    - [x] 설명가능한 AI모델 XAI(eXplanable AI) 실습 2 - SHAP
   - [ ] 결과 보고서
 
 ##### 참고자료
