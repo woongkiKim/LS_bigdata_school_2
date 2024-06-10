@@ -36,7 +36,7 @@ Github을 다루는데 익숙해지며 각종 학습자료를 배포하기 위�
 
 #### 목차
 
-- [ ] 기초 개발 프로그래밍
+- [x] 기초 개발 프로그래밍
 
   - [x] Python 설치 및 프로젝트 가상환경 관리
   - [x] Github 핸즈온
@@ -44,22 +44,40 @@ Github을 다루는데 익숙해지며 각종 학습자료를 배포하기 위�
 - [ ] 데이터 수집 및 대시보드 시각화
 
   - [x] BeautifulSoup4 핸즈온
+
     - [x] wework 채용 사이트 수집 실습
-    - [ ] 수집 방지 사이트 우회 챌린지 실습 (User-Agent)
-  - [ ] Selenium 핸즈온
+    - [x] 수집 방지 사이트 우회 챌린지 실습 (User-Agent)
+
+  - [x] Selenium 핸즈온
+
   - [x] API 핸즈온
+
     - [x] 공공데이터 포털 운영계정 API 신청 및 사용방법 (PPT)
     - [x] API로 데이터 수집하기 실습
+
   - [ ] 수집 모듈 자동화
 
-- [ ] 솔루션 제안 기반 분석 및 결과 보고서
+  - [ ] Streamlit를 이용한 대시보드
 
-  - [ ] 분석주제 선정보고서
-  - [ ] 분석 코드
+    - [ ] Streamlit ML모델 배포
+    - [ ] Streamlit 대시보드
+
+- [x] 솔루션 제안 기반 분석 및 결과 보고서
+
+  - [x] 분석주제 선정보고서
+
+  - [x] 분석 코드
+
     - [x] 설명가능한 AI모델 XAI(eXplanable AI) 실습 1 (Partial Dependence Plot - PDP)
     - [x] 설명가능한 AI모델 XAI(eXplanable AI) 실습 2 - SHAP
     - [x] 불균형 데이터 샘플링 처리 기법 - SMOTE 실습
-  - [ ] 결과 보고서
+
+  - [x] 결과 보고서
+
+- [ ] 실무에서 사용할 Docker 기본
+
+  - [ ] Docker 분석 컨테이너 실습
+  - [ ] Docker MYSQL 컨테이너 실습
 
 ##### 참고자료
 
