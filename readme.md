@@ -40,8 +40,9 @@ Github을 다루는데 익숙해지며 각종 학습자료를 배포하기 위�
 
   - [x] Python 설치 및 프로젝트 가상환경 관리
   - [x] Github 핸즈온
+  - [x] CODE 컨벤션 PEP8 (✅ 참고 : https://spoqa.github.io/2012/08/03/about-python-coding-convention.html)
 
-- [ ] 데이터 수집 및 대시보드 시각화
+- [x] 데이터 수집 및 대시보드 시각화
 
   - [x] BeautifulSoup4 핸즈온
 
@@ -55,12 +56,10 @@ Github을 다루는데 익숙해지며 각종 학습자료를 배포하기 위�
     - [x] 공공데이터 포털 운영계정 API 신청 및 사용방법 (PPT)
     - [x] API로 데이터 수집하기 실습
 
-  - [ ] 수집 모듈 자동화
+  - [x] Streamlit를 이용한 대시보드
 
-  - [ ] Streamlit를 이용한 대시보드
-
-    - [ ] Streamlit ML모델 배포
-    - [ ] Streamlit 대시보드
+    - [x] Streamlit ML모델 배포
+    - [x] Streamlit 대시보드 (✅ 참고 : https://github.com/woongkiKim/streamlit_example)
 
 - [x] 솔루션 제안 기반 분석 및 결과 보고서
 
@@ -74,10 +73,10 @@ Github을 다루는데 익숙해지며 각종 학습자료를 배포하기 위�
 
   - [x] 결과 보고서
 
-- [ ] 실무에서 사용할 Docker 기본
+- [x] 실무에서 사용할 Docker 기본 (✅ 참고 : https://github.com/journeydat/KAMP_casting)
 
-  - [ ] Docker 분석 컨테이너 실습
-  - [ ] Docker MYSQL 컨테이너 실습
+  - [x] Docker 분석 컨테이너 실습
+  - [x] Docker MYSQL 컨테이너 실습
 
 ##### 참고자료
 
